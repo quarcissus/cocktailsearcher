@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cocktailsearcher/static/css/main.488af6c6.chunk.css",
+    "main.js": "/cocktailsearcher/static/js/main.a83e318e.chunk.js",
+    "main.js.map": "/cocktailsearcher/static/js/main.a83e318e.chunk.js.map",
+    "runtime-main.js": "/cocktailsearcher/static/js/runtime-main.8ee1e787.js",
+    "runtime-main.js.map": "/cocktailsearcher/static/js/runtime-main.8ee1e787.js.map",
+    "static/js/2.07f02bea.chunk.js": "/cocktailsearcher/static/js/2.07f02bea.chunk.js",
+    "static/js/2.07f02bea.chunk.js.map": "/cocktailsearcher/static/js/2.07f02bea.chunk.js.map",
+    "static/js/3.9f37f880.chunk.js": "/cocktailsearcher/static/js/3.9f37f880.chunk.js",
+    "static/js/3.9f37f880.chunk.js.map": "/cocktailsearcher/static/js/3.9f37f880.chunk.js.map",
+    "index.html": "/cocktailsearcher/index.html",
+    "static/css/main.488af6c6.chunk.css.map": "/cocktailsearcher/static/css/main.488af6c6.chunk.css.map",
+    "static/js/2.07f02bea.chunk.js.LICENSE.txt": "/cocktailsearcher/static/js/2.07f02bea.chunk.js.LICENSE.txt",
+    "static/media/cocktail.3128120f.svg": "/cocktailsearcher/static/media/cocktail.3128120f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ee1e787.js",
+    "static/js/2.07f02bea.chunk.js",
+    "static/css/main.488af6c6.chunk.css",
+    "static/js/main.a83e318e.chunk.js"
+  ]
+}
